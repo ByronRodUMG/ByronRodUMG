@@ -1,4 +1,14 @@
-### Hi there 👋
+![wordcloud](https://user-images.githubusercontent.com/124536991/219823962-93889628-489e-493d-9215-6e6102ded390.png)
+## Hola 👋
+<p align="center">
+Soy Byron Rodríguez, estudiante de <em>Ingeniería en Sistemas de Información</em> en la Universidad Mariano Galvez de Guatemala.
+</p>
+<p align="center">
+Aun soy un novato en el mundo de la programación, pero estoy dando lo mejor de mí para aprender.
+</p>
+
+- 🔭 Estoy trabajando en unos proyectos personales
+- 🌱 Estoy aprendiendo C# y GDScript
 
 <!--
 **ByronRodUMG/ByronRodUMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
